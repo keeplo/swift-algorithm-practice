@@ -13,6 +13,7 @@
 * [깊이/너비 우선 탐색 (DFS/BFS)](https://programmers.co.kr/learn/courses/30/parts/12421)
   * 타겟 넘버 [blog](https://keeplo.tistory.com/297) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/programmers-practice/DFS_BFS/타깃_넘버/main.swift)
   * 단어 변환 [blog](https://keeplo.tistory.com/298) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/programmers-practice/DFS_BFS/단어_변환/main.swift)
+  * 여행경로 [blog](https://keeplo.tistory.com/302) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/programmers-practice/DFS_BFS/여행경로/main.swift)
 
 
 # 백준 온라인 저지
