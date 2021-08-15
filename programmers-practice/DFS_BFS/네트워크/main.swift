@@ -8,23 +8,23 @@
 import Foundation
 
 func solution(_ n:Int, _ computers:[[Int]]) -> Int {
-    var matrix = Array<Int>(repeating: n, count: n)
+    var visited = Array<Int>(repeating: n, count: n)
     
     for index in 0..<n {
-        if matrix[index] == n {
-            bfs(flag: index, start: index, &matrix, computers)
+        if visited[index] == n {
+            dfs(flag: index, start: index, &visited, computers)
         }
     }
         
-    return Set(matrix).count
+    return Set(visited).count
 }
 
-func bfs(flag: Int, start: Int, _ matrix: inout [Int], _ computers: [[Int]]) {
+func dfs(flag: Int, start: Int, _ matrix: inout [Int], _ computers: [[Int]]) {
     matrix[start] = flag
     
     for i in 0..<computers.count {
         if i != start, computers[start][i] == 1, matrix[i] == computers.count {
-            bfs(flag: flag, start: i, &matrix, computers)
+            dfs(flag: flag, start: i, &matrix, computers)
         }
     }
 }
