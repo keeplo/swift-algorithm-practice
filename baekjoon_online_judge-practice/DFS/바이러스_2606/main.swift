@@ -5,6 +5,8 @@
 //  Created by Yongwoo Marco on 2021/08/18.
 //
 
+// https://www.acmicpc.net/problem/2606
+
 import Foundation
 
 let computerCount = Int(readLine()!)!

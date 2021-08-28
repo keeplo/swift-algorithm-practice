@@ -56,6 +56,7 @@
 ### [단계별로_풀어보기](https://www.acmicpc.net/step)
 * **[DFS와 BFS](https://www.acmicpc.net/step/24)**
     * 바이러스 2606 [blog](https://keeplo.tistory.com/312) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/DFS/바이러스_2606/main.swift)
+    * DFS와 BFS 1260 [blog](https://velog.io/@keeplo/BOJ-DFS와-BFS-1260) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/DFS/DFS와_BFS_1260/main.swift)
 
   
 
