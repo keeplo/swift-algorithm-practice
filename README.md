@@ -56,8 +56,9 @@
     * 나이트의 이동 7562 [blog](https://velog.io/@keeplo/BOJ-나이트의이동7562) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/BFS/나이트의_이동_7562/main.swift)
     * 토마토 7576 [blog](https://velog.io/@keeplo/BOJ-토마토7576) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/BFS/토마토_7576/main.swift)
   
-  * **[정렬](https://www.acmicpc.net/step/9)**
+* **[정렬](https://www.acmicpc.net/step/9)**
     * 수 정렬하기 2750 [blog](https://velog.io/@keeplo/BOJ-수정렬하기2750) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/정렬/수_정렬하기_2750/main.swift)
+    * 수 정렬하기 2 2751 [blog](https://velog.io/@keeplo/BOJ-수정렬하기2-2751) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/정렬/수_정렬하기_2751/main.swift)
   
 # 해커 랭크
 
