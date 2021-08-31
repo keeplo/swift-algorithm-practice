@@ -58,7 +58,8 @@
   
 * **[정렬](https://www.acmicpc.net/step/9)**
     * 수 정렬하기 2750 [blog](https://velog.io/@keeplo/BOJ-수정렬하기2750) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/정렬/수_정렬하기_2750/main.swift)
-    * 수 정렬하기 2 2751 [blog](https://velog.io/@keeplo/BOJ-수정렬하기2-2751) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/정렬/수_정렬하기_2751/main.swift)
+    * 수 정렬하기 2 2751 [blog](https://velog.io/@keeplo/BOJ-수정렬하기2-2751) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/정렬/수_정렬하기_2_2751/main.swift)
+    * 소트인사이드 1427 [blog](https://velog.io/@keeplo/BOJ-소트인사이드1427) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/정렬/소트인사이드_1427/main.swift)
   
 # 해커 랭크
 
