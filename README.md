@@ -62,6 +62,7 @@
     * 소트인사이드 1427 [blog](https://velog.io/@keeplo/BOJ-소트인사이드1427) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/정렬/소트인사이드_1427/main.swift)
     * 좌표정렬하기 2 11651 [blog](https://velog.io/@keeplo/BOJ-좌표정렬하기2-11651) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/정렬/좌표정렬하기_2_11651/main.swift)
     * 좌표 압축 18870 [blog](https://velog.io/@keeplo/BOJ-좌표압축-18870) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/정렬/좌표_압축_18870/main.swift)
+    * 나이순 정렬 10814 [blog](https://velog.io/@keeplo/BOJ-나이순정렬-10814) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/정렬/나이순_정렬_10814/main.swift)
     
 # 해커 랭크
 
