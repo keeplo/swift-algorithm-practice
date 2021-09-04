@@ -15,7 +15,7 @@
     * [연습문제](#연습문제)
 
 * [백준 온라인 저지 Baekjoon Online Judge](#백준-온라인-저지)
-    *[단계별로 풀어보기](#단계별로_풀어보기)
+    * [단계별로 풀어보기](#단계별로_풀어보기)
 
 * [해커랭크 HackerRank](#해커-랭크)
 
@@ -64,7 +64,8 @@
     * 좌표 압축 18870 [blog](https://velog.io/@keeplo/BOJ-좌표압축-18870) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/정렬/좌표_압축_18870/main.swift)
     * 나이순 정렬 10814 [blog](https://velog.io/@keeplo/BOJ-나이순정렬-10814) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/정렬/나이순_정렬_10814/main.swift)
     * 단어 정렬  [blog](https://velog.io/@keeplo/BOJ-단어정렬-1181) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/정렬/단어_정렬_1181/main.swift)
-    * 단어 정렬  [blog](https://velog.io/@keeplo/BOJ-좌표정렬하기-11650) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/정렬/좌표_정렬하기_11650/main.swift)
+    * 좌표 정렬하기  [blog](https://velog.io/@keeplo/BOJ-좌표정렬하기-11650) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/정렬/좌표_정렬하기_11650/main.swift)
+    * 통계학  [blog](https://velog.io/@keeplo/BOJ-통계학-2108) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/정렬/통계학_2108/main.swift)
 # 해커 랭크
 
   
