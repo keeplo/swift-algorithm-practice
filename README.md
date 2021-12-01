@@ -34,8 +34,8 @@
         * 숫자 문자열과 영단어 [blog](https://keeplo.tistory.com/310)  [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/programmers-practice/Kakao/2021/인턴/숫자_문자열과_영단어/main.swift)
 
 ### [모든 문제](https://programmers.co.kr/learn/challenges)
-* **1단계**
-    [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)/ [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)/ [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)/ [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)
+* **1단계**  
+    [최소직사각형](https://github.com/Keeplo/swift-algorithm-practice/tree/main/programmers-phase/1단계/최소직사각형)/ [나머지가 1이 되는 수 찾기](https://github.com/Keeplo/swift-algorithm-practice/tree/main/programmers-phase/1단계/나머지가_1이_되는_수_찾기)/ [부족한 금액 계산하기](https://github.com/Keeplo/swift-algorithm-practice/tree/main/programmers-phase/1단계/부족한_금액_계산하기)/ [없는 숫자 더하기](https://github.com/Keeplo/swift-algorithm-practice/tree/main/programmers-phase/1단계/없는_숫자_더하기)
 
 * **2단계**
 
