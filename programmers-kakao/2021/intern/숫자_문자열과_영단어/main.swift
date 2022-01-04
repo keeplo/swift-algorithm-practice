@@ -1,8 +1,8 @@
 //
 //  main.swift
-//  Kakao/2021/인턴/숫자_문자열과_영단어
+//  2021/intern/숫자_문자열과_영단어
 //
-//  Created by Yongwoo Marco on 2021/08/15.
+//  Created by Yongwoo Marco on 2022/01/04.
 //
 
 import Foundation
@@ -30,3 +30,4 @@ print(solution("one4seveneight")) // 1478
 print(solution("23four5six7")) // 234567
 print(solution("2three45sixseven")) // 234567
 print(solution("123")) // 123
+
