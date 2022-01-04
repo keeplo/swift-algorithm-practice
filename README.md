@@ -30,12 +30,18 @@
 * **2021**
 
     * 채용연계형 인턴쉽
+        * 숫자 문자열과 영단어 [blog](https://keeplo.tistory.com/310)  [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/programmers-kakao/2021/intern/숫자_문자열과_영단어/main.swift)  
+          
+    * BLIND RECRUITMENT
+        * 신규 아이디 추천 [blog]() [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/programmers-kakao/2021/blind/신규_아이디_추천/main.swift)
 
-        * 숫자 문자열과 영단어 [blog](https://keeplo.tistory.com/310)  [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/programmers-practice/Kakao/2021/인턴/숫자_문자열과_영단어/main.swift)
+* **2020**
+    * 카카오 인턴십
+        * 키패드 누르기 [blog]() [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/programmers-kakao/2020/intern/키패드_누르기/main.swift)
 
 ### [모든 문제](https://programmers.co.kr/learn/challenges)
 * **1단계**  
-    [최소직사각형](https://github.com/Keeplo/swift-algorithm-practice/tree/main/programmers-phase/1단계/최소직사각형/main.swift) / [나머지가 1이 되는 수 찾기](https://github.com/Keeplo/swift-algorithm-practice/tree/main/programmers-phase/1단계/나머지가_1이_되는_수_찾기/main.swift) / [부족한 금액 계산하기](https://github.com/Keeplo/swift-algorithm-practice/tree/main/programmers-phase/1단계/부족한_금액_계산하기/main.swift) / [없는 숫자 더하기](https://github.com/Keeplo/swift-algorithm-practice/tree/main/programmers-phase/1단계/없는_숫자_더하기/main.swift) / [로또의 최고 순위와 최저 순위](https://github.com/Keeplo/swift-algorithm-practice/tree/main/programmers-phase/1단계/로또의_최고_순위와_최저_순위/main.swift) / [신규 아이디 추천](https://github.com/Keeplo/swift-algorithm-practice/tree/main/programmers-phase/1단계/신규_아이디_추천/main.swift) / [숫자 문자열과 영단어](https://github.com/Keeplo/swift-algorithm-practice/tree/main/programmers-phase/1단계/숫자_문자열과_영단어/main.swift) / [키패드 누르기](https://github.com/Keeplo/swift-algorithm-practice/tree/main/programmers-phase/1단계/키패드_누르기/main.swift)
+    [최소직사각형](https://github.com/Keeplo/swift-algorithm-practice/tree/main/programmers-phase/1단계/최소직사각형/main.swift) / [나머지가 1이 되는 수 찾기](https://github.com/Keeplo/swift-algorithm-practice/tree/main/programmers-phase/1단계/나머지가_1이_되는_수_찾기/main.swift) / [부족한 금액 계산하기](https://github.com/Keeplo/swift-algorithm-practice/tree/main/programmers-phase/1단계/부족한_금액_계산하기/main.swift) / [없는 숫자 더하기](https://github.com/Keeplo/swift-algorithm-practice/tree/main/programmers-phase/1단계/없는_숫자_더하기/main.swift) / [로또의 최고 순위와 최저 순위](https://github.com/Keeplo/swift-algorithm-practice/tree/main/programmers-phase/1단계/로또의_최고_순위와_최저_순위/main.swift) / 
 
 * **2단계**
 
