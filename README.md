@@ -26,6 +26,9 @@
 # 프로그래머스
 
 ### 카카오
+* **2022**  
+    * BLIND RECRUITMENT
+        * 신고 결과 받기 [blog](https://keeplo.tistory.com/380) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/programmers-kakao/2022/blind/신고_결과_받기/main.swift)
 
 * **2021**
 

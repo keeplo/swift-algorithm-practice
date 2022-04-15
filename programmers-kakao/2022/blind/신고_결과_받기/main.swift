@@ -31,6 +31,9 @@ func solution(_ id_list:[String], _ report:[String], _ k:Int) -> [Int] {
 }
 
 print(solution(["muzi", "frodo", "apeach", "neo"],
-               ["muzi frodo","apeach frodo","frodo neo","muzi neo","apeach muzi"], 2)) // [2,1,1,0]
+               ["muzi frodo","apeach frodo","frodo neo","muzi neo","apeach muzi"],
+               2)) // [2,1,1,0]
+
 print(solution(["con", "ryan"],
-               ["ryan con", "ryan con", "ryan con", "ryan con"], 3)) // [0,0]
+               ["ryan con", "ryan con", "ryan con", "ryan con"],
+               3)) // [0,0]
