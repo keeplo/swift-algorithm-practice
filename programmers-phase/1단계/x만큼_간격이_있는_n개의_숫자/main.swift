@@ -5,9 +5,9 @@
 //  Created by Yongwoo Marco on 2022/04/18.
 //
 
-import Foundation
-
 // https://programmers.co.kr/learn/courses/30/lessons/12954
+
+import Foundation
 
 func solution(_ x:Int, _ n:Int) -> [Int64] {
     return (1...n).map{ Int64($0) * Int64(x) }

@@ -5,9 +5,9 @@
 //  Created by Yongwoo Marco on 2022/04/18.
 //
 
-import Foundation
-
 // https://programmers.co.kr/learn/courses/30/lessons/12969
+
+import Foundation
 
 let edges = readLine()!.components(separatedBy: [" "]).compactMap { Int($0) }
 let matrix = [[String]](repeating: [String](repeating: "*", count: edges[0]), count: edges[1])

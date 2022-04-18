@@ -5,9 +5,9 @@
 //  Created by Yongwoo Marco on 2022/04/16.
 //
 
-import Foundation
-
 // https://programmers.co.kr/learn/courses/30/lessons/12921
+
+import Foundation
 
 // 구버전 - 시간초과
 //func solution(_ n:Int) -> Int {
