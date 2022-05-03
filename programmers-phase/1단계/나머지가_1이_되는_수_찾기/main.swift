@@ -8,13 +8,13 @@
 import Foundation
 
 // https://programmers.co.kr/learn/courses/30/lessons/87389
+
 func solution(_ n:Int) -> Int {
-    for num in 2...n  {
-        if n % num == 1 {
-            return num
-        }
+    var result = 2
+    while n % result != 1 {
+        result += 1
     }
-    return 1
+    return result
 }
 
 print(solution(10))
