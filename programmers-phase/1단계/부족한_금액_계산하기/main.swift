@@ -8,10 +8,11 @@
 import Foundation
 
 // https://programmers.co.kr/learn/courses/30/lessons/82612
+
 func solution(_ price:Int, _ money:Int, _ count:Int) -> Int64{
     let sum = Int64((1...count).reduce(0) { $0 + $1 * price })
-    let answer: Int64 = Int64(money) - sum
-    return answer > 0 ? 0 : -answer
+    let answer = sum - Int64(money)
+    return answer < 0 ? 0 : answer
 }
 
-print(solution(3, 20, 4))
+print(solution(3, 20, 4)) // 10
