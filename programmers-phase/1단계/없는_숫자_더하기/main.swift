@@ -8,6 +8,7 @@
 import Foundation
 
 // https://programmers.co.kr/learn/courses/30/lessons/86051
+
 func solution(_ numbers:[Int]) -> Int {
     return (1...9).reduce(0) { numbers.contains($1) ? $0 : $0 + $1 }
 }
