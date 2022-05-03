@@ -25,25 +25,17 @@
 
 # 프로그래머스
 
-### 카카오
-* **2022**  
-    * BLIND RECRUITMENT
-        * 신고 결과 받기 [blog](https://keeplo.tistory.com/380) [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/programmers-kakao/2022/blind/신고_결과_받기/main.swift)
-
-* **2021**
-
-    * 채용연계형 인턴쉽
-        * 숫자 문자열과 영단어 [blog](https://keeplo.tistory.com/310)  [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/programmers-kakao/2021/intern/숫자_문자열과_영단어/main.swift)  
-          
-    * BLIND RECRUITMENT
-        * 신규 아이디 추천 [blog]() [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/programmers-kakao/2021/blind/신규_아이디_추천/main.swift)
-
-* **2020**
-    * 카카오 인턴십
-        * 키패드 누르기 [blog]() [code](https://github.com/Keeplo/swift-algorithm-practice/blob/main/programmers-kakao/2020/intern/키패드_누르기/main.swift)
-
 ### [모든 문제](https://programmers.co.kr/learn/challenges)
 * **1단계**  
+    * 카카오
+        * KAKAO BLIND RECRUITMENT
+            * 2022 [신고 결과 받기](https://keeplo.tistory.com/380)
+            * 2021 신규 아이디 추천
+            * 2019 실패율
+            * 2018 [1차] 비밀지도 / [1차] 다트게임
+        * 2021 채용연계형 인턴쉽 [숫자 문자열과 영단어](https://keeplo.tistory.com/310) 
+        * 2020 인턴쉽 키패드 누르기
+        * 2019 개발자 겨울 인턴쉽 크레인 인형뽑기 게임
     * 2021 Dev-Matching: 웹 백엔드 개발자(상반기)
         [로또의 최고 순위와 최저 순위](https://keeplo.tistory.com/414)
     * 월간 코드 챌린지
@@ -52,6 +44,7 @@
         * 시즌 3 [없는 숫자 더하기](https://keeplo.tistory.com/419) / [나머지가 1이 되는 수 찾기](https://keeplo.tistory.com/420)
     * 위클리 챌린지
         [최소직사각형](https://keeplo.tistory.com/421) / [부족한 금액 계산하기](https://keeplo.tistory.com/422)
+    * Summer/Wintor Coding (~2018) 
     * 연습문제
         [내적](https://github.com/Keeplo/swift-algorithm-practice/tree/main/programmers-phase/1단계/내적/main.swift) / [소수찾기](https://keeplo.tistory.com/381) / [직사각형 별찍기](https://keeplo.tistory.com/382) / [x만큼 간격이 있는 n개의 숫자](https://keeplo.tistory.com/383) / [행렬의 덧셈](https://keeplo.tistory.com/384) / [핸드폰 번호 가리기](https://keeplo.tistory.com/385) / [하샤드 수](https://keeplo.tistory.com/386) / [평균 구하기](https://keeplo.tistory.com/387) / [콜라츠 추측](https://keeplo.tistory.com/388) / [짝수와 홀수](https://keeplo.tistory.com/389) / [최대공약수와 최소공배수](https://keeplo.tistory.com/390) / [최댓값과 최솟값](https://keeplo.tistory.com/391) / [최솟값 만들기](https://keeplo.tistory.com/392) / [제일 작은 수 제거하기](https://keeplo.tistory.com/394) [정수 제곱근 판별](https://keeplo.tistory.com/395) / [정수 내림차순으로 배치하기](https://keeplo.tistory.com/396) / [자연수 뒤집어 배열로 만들기](https://keeplo.tistory.com/397) / [자릿수 더하기](https://keeplo.tistory.com/398) / [이상한 문자 만들기](https://keeplo.tistory.com/399) / [약수의 합](https://keeplo.tistory.com/400) / [시저 암호](https://keeplo.tistory.com/401) / [수박수박수박수박수박수?](https://keeplo.tistory.com/402) / [문자열을 정수로 바꾸기](https://keeplo.tistory.com/403) / [서울에서 김서방 찾기](https://keeplo.tistory.com/404) / [문자열 다루기 기본](https://keeplo.tistory.com/405) / [문자열 내림차순으로 배치하기](https://keeplo.tistory.com/407) / [문자열 내 p와 y의 개수](https://keeplo.tistory.com/408) / [문자열 내 마음대로 정렬하기](https://keeplo.tistory.com/409) / [두 정수 사이의 합](https://keeplo.tistory.com/410) / [나누어 떨어지는 숫자 배열](https://keeplo.tistory.com/411) / [가운데 글자 가져오기](https://keeplo.tistory.com/412) / [2016년](https://keeplo.tistory.com/413)  
     
