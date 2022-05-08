@@ -1,6 +1,6 @@
 //
 //  main.swift
-//  1단계/최댓값과_최솟값
+//  2단계/최댓값과_최솟값
 //
 //  Created by Yongwoo Marco on 2022/04/25.
 //
@@ -17,3 +17,5 @@ func solution(_ s:String) -> String {
 print(solution("1 2 3 4"))  // "1 4"
 print(solution("-1 -2 -3 -4")) // "-4 -1"
 print(solution("-1 -1")) // "-1 -1"
+
+
