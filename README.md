@@ -46,7 +46,7 @@
 * 연습문제 30  
     [소수찾기](https://keeplo.tistory.com/381) / [직사각형 별찍기](https://keeplo.tistory.com/382) / [x만큼 간격이 있는 n개의 숫자](https://keeplo.tistory.com/383) / [행렬의 덧셈](https://keeplo.tistory.com/384) / [핸드폰 번호 가리기](https://keeplo.tistory.com/385) / [하샤드 수](https://keeplo.tistory.com/386) / [평균 구하기](https://keeplo.tistory.com/387) / [콜라츠 추측](https://keeplo.tistory.com/388) / [짝수와 홀수](https://keeplo.tistory.com/389) / [최대공약수와 최소공배수](https://keeplo.tistory.com/390) / [최댓값과 최솟값](https://keeplo.tistory.com/391) / [최솟값 만들기](https://keeplo.tistory.com/392) / [제일 작은 수 제거하기](https://keeplo.tistory.com/394) [정수 제곱근 판별](https://keeplo.tistory.com/395) / [정수 내림차순으로 배치하기](https://keeplo.tistory.com/396) / [자연수 뒤집어 배열로 만들기](https://keeplo.tistory.com/397) / [자릿수 더하기](https://keeplo.tistory.com/398) / [이상한 문자 만들기](https://keeplo.tistory.com/399) / [약수의 합](https://keeplo.tistory.com/400) / [시저 암호](https://keeplo.tistory.com/401) / [수박수박수박수박수박수?](https://keeplo.tistory.com/402) / [문자열을 정수로 바꾸기](https://keeplo.tistory.com/403) / [서울에서 김서방 찾기](https://keeplo.tistory.com/404) / [문자열 다루기 기본](https://keeplo.tistory.com/405) / [문자열 내림차순으로 배치하기](https://keeplo.tistory.com/407) / [문자열 내 p와 y의 개수](https://keeplo.tistory.com/408) / [문자열 내 마음대로 정렬하기](https://keeplo.tistory.com/409) / [두 정수 사이의 합](https://keeplo.tistory.com/410) / [나누어 떨어지는 숫자 배열](https://keeplo.tistory.com/411) / [가운데 글자 가져오기](https://keeplo.tistory.com/412) / [2016년](https://keeplo.tistory.com/413)  
 * 코딩테스트 고득점 Kit 3
-    * 정렬 K번째수
+    * 정렬 [K번째수](https://keeplo.tistory.com/441)
     * 완전탐색 [모의고사](https://keeplo.tistory.com/439)
     * 탐욕법(Greedy) [체육복](https://keeplo.tistory.com/440)
     

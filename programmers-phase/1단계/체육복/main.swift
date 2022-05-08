@@ -5,6 +5,8 @@
 //  Created by Yongwoo Marco on 2022/05/08.
 //
 
+// https://programmers.co.kr/learn/courses/30/lessons/42862
+
 import Foundation
 
 func solution(_ n:Int, _ lost:[Int], _ reserve:[Int]) -> Int {
