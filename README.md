@@ -51,9 +51,36 @@
     * 탐욕법(Greedy) [체육복](https://keeplo.tistory.com/440)
     
 #### 2단계
-    * 연습문제
-        [N개의 최소공배수](https://keeplo.tistory.com/442) / [JadenCase 문자열 만들기](https://keeplo.tistory.com/443) / [행렬의 곱셈](https://keeplo.tistory.com/444) / [피보나치 수](https://keeplo.tistory.com/445) / [최댓값과 최솟값](https://keeplo.tistory.com/391) / [최솟값 만들기](https://keeplo.tistory.com/392) / [땅따먹기](https://keeplo.tistory.com/446) / [다음 큰 숫자](https://keeplo.tistory.com/447) / [올바른 괄호](https://keeplo.tistory.com/448) / [가장 큰 정사각형 찾기](https://keeplo.tistory.com/449)
-
+* 카카오 19  
+    * KAKAO BLIND RECRUITMENT  
+        * 2022 3  
+        * 2021 2  
+        * 2020 2   
+        * 2019 2  
+        * 2018 7  
+    * 2021 채용연계형 인턴쉽  
+    * 2020 인턴쉽  
+    * 2019 개발자 겨울 인턴쉽  
+* 2021 Dev-Matching: 웹 백엔드 개발자(상반기) 1  
+* 월간 코드 챌린지 7  
+    * 시즌 1   
+    * 시즌 2  
+    * 시즌 3  
+* Summer/Winder Coding  
+    * ~2018 5  
+    * 2019 1   
+* 2017 팁스타운 2  
+    
+* 위클리 챌린지 4  
+    
+* 연습문제
+    [N개의 최소공배수](https://keeplo.tistory.com/442) / [JadenCase 문자열 만들기](https://keeplo.tistory.com/443) / [행렬의 곱셈](https://keeplo.tistory.com/444) / [피보나치 수](https://keeplo.tistory.com/445) / [최댓값과 최솟값](https://keeplo.tistory.com/391) / [최솟값 만들기](https://keeplo.tistory.com/392) / [땅따먹기](https://keeplo.tistory.com/446) / [다음 큰 숫자](https://keeplo.tistory.com/447) / [올바른 괄호](https://keeplo.tistory.com/448) / [가장 큰 정사각형 찾기](https://keeplo.tistory.com/449)
+* 코딩테스트 고득점 Kit 
+    * 정렬
+    * 완전탐색
+    * 탐욕법(Greedy)
+    * 스택/큐
+ 
 ## [연습문제](https://programmers.co.kr/learn/challenges)
 
 *  ***[깊이/너비 우선 탐색 (DFS/BFS)](https://programmers.co.kr/learn/courses/30/parts/12421)***  
