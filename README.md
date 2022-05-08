@@ -31,7 +31,7 @@
         * 2019 [실패율](https://keeplo.tistory.com/435)
         * 2018 [[1차] 비밀지도](https://keeplo.tistory.com/433) / [[1차] 다트게임](https://keeplo.tistory.com/434)
     * 2021 채용연계형 인턴쉽 [숫자 문자열과 영단어](https://keeplo.tistory.com/437) 
-    * 2020 인턴쉽 키패드 누르기
+    * 2020 인턴쉽 [키패드 누르기](https://keeplo.tistory.com/438)
     * 2019 개발자 겨울 인턴쉽 [크레인 인형뽑기 게임](https://keeplo.tistory.com/432)
 * 2021 Dev-Matching: 웹 백엔드 개발자(상반기)  
         [로또의 최고 순위와 최저 순위](https://keeplo.tistory.com/414)
