@@ -52,7 +52,7 @@
     
 #### 2단계
     * 연습문제
-        [N개의 최소공배수](https://keeplo.tistory.com/442) / [JadenCase 문자열 만들기](https://keeplo.tistory.com/443)
+        [N개의 최소공배수](https://keeplo.tistory.com/442) / [JadenCase 문자열 만들기](https://keeplo.tistory.com/443) / [행렬의 곱셈](https://keeplo.tistory.com/444)
 
 ## [연습문제](https://programmers.co.kr/learn/challenges)
 
