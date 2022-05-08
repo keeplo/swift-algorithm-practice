@@ -51,6 +51,8 @@
     * 탐욕법(Greedy) [체육복](https://keeplo.tistory.com/440)
     
 #### 2단계
+    * 연습문제
+        [N개의 최소공배수](https://keeplo.tistory.com/442)
 
 ## [연습문제](https://programmers.co.kr/learn/challenges)
 
