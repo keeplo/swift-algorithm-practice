@@ -72,7 +72,7 @@
     * 정렬
     * 완전탐색
     * 탐욕법(Greedy)
-    * 스택/큐 [기능개발](https://keeplo.tistory.com/450)
+    * 스택/큐 [기능개발](https://keeplo.tistory.com/450) [프린터](https://keeplo.tistory.com/452)
     * DFS/BFS [타겟 넘버](https://keeplo.tistory.com/451)
  
 ## [연습문제](https://programmers.co.kr/learn/challenges)
