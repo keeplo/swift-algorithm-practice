@@ -3,22 +3,15 @@
 알고리즘 문제 연습 Swift
 
 # 목차
-
 * [프로그래머스 Programmers](#프로그래머스)
-
     * [모든문제](#모든문제)
         * [1단계](#1단계)
         * [2단계](#2단계)
     * [연습문제](#연습문제)
-
 * [백준 온라인 저지 Baekjoon Online Judge](#백준-온라인-저지)
     * [단계별로 풀어보기](#단계별로_풀어보기)
-
 * [해커랭크 HackerRank](#해커-랭크)
-
 * [릿 코드 leetcode](#릿-코드)
-
-  
 
 # 프로그래머스
 ### [모든문제](https://programmers.co.kr/learn/challenges)
@@ -73,13 +66,13 @@
     
 * 위클리 챌린지 4  
     
-* 연습문제
+* 연습문제  
     [N개의 최소공배수](https://keeplo.tistory.com/442) / [JadenCase 문자열 만들기](https://keeplo.tistory.com/443) / [행렬의 곱셈](https://keeplo.tistory.com/444) / [피보나치 수](https://keeplo.tistory.com/445) / [최댓값과 최솟값](https://keeplo.tistory.com/391) / [최솟값 만들기](https://keeplo.tistory.com/392) / [땅따먹기](https://keeplo.tistory.com/446) / [다음 큰 숫자](https://keeplo.tistory.com/447) / [올바른 괄호](https://keeplo.tistory.com/448) / [가장 큰 정사각형 찾기](https://keeplo.tistory.com/449)
 * 코딩테스트 고득점 Kit 
     * 정렬
     * 완전탐색
     * 탐욕법(Greedy)
-    * 스택/큐
+    * 스택/큐 [기능개발](https://keeplo.tistory.com/450)
  
 ## [연습문제](https://programmers.co.kr/learn/challenges)
 
