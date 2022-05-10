@@ -73,6 +73,7 @@
     * 탐욕법(Greedy)
     * 스택/큐 [기능개발](https://keeplo.tistory.com/450) [프린터](https://keeplo.tistory.com/452)
     * DFS/BFS [타겟 넘버](https://keeplo.tistory.com/451)
+    * 해시 [위장](https://keeplo.tistory.com/454)
 
 # 백준 온라인 저지
 
