@@ -1,6 +1,6 @@
 //
 //  main.swift
-//  1단계/소수_찾기
+//  2단계/소수_찾기
 //
 //  Created by Yongwoo Marco on 2022/04/16.
 //

@@ -7,7 +7,6 @@
     * [모든문제](#모든문제)
         * [1단계](#1단계)
         * [2단계](#2단계)
-    * [연습문제](#연습문제)
 * [백준 온라인 저지 Baekjoon Online Judge](#백준-온라인-저지)
     * [단계별로 풀어보기](#단계별로_풀어보기)
 * [해커랭크 HackerRank](#해커-랭크)
@@ -36,8 +35,8 @@
     [최소직사각형](https://keeplo.tistory.com/421) / [부족한 금액 계산하기](https://keeplo.tistory.com/422)
 * Summer/Winter Coding (~2018) 2
     [소수 만들기](https://keeplo.tistory.com/430) / [예산](https://keeplo.tistory.com/431)
-* 연습문제 28  
-    [소수찾기](https://keeplo.tistory.com/381) / [직사각형 별찍기](https://keeplo.tistory.com/382) / [x만큼 간격이 있는 n개의 숫자](https://keeplo.tistory.com/383) / [행렬의 덧셈](https://keeplo.tistory.com/384) / [핸드폰 번호 가리기](https://keeplo.tistory.com/385) / [하샤드 수](https://keeplo.tistory.com/386) / [평균 구하기](https://keeplo.tistory.com/387) / [콜라츠 추측](https://keeplo.tistory.com/388) / [짝수와 홀수](https://keeplo.tistory.com/389) / [최대공약수와 최소공배수](https://keeplo.tistory.com/390) / [제일 작은 수 제거하기](https://keeplo.tistory.com/394) [정수 제곱근 판별](https://keeplo.tistory.com/395) / [정수 내림차순으로 배치하기](https://keeplo.tistory.com/396) / [자연수 뒤집어 배열로 만들기](https://keeplo.tistory.com/397) / [자릿수 더하기](https://keeplo.tistory.com/398) / [이상한 문자 만들기](https://keeplo.tistory.com/399) / [약수의 합](https://keeplo.tistory.com/400) / [시저 암호](https://keeplo.tistory.com/401) / [수박수박수박수박수박수?](https://keeplo.tistory.com/402) / [문자열을 정수로 바꾸기](https://keeplo.tistory.com/403) / [서울에서 김서방 찾기](https://keeplo.tistory.com/404) / [문자열 다루기 기본](https://keeplo.tistory.com/405) / [문자열 내림차순으로 배치하기](https://keeplo.tistory.com/407) / [문자열 내 p와 y의 개수](https://keeplo.tistory.com/408) / [문자열 내 마음대로 정렬하기](https://keeplo.tistory.com/409) / [두 정수 사이의 합](https://keeplo.tistory.com/410) / [나누어 떨어지는 숫자 배열](https://keeplo.tistory.com/411) / [가운데 글자 가져오기](https://keeplo.tistory.com/412) / [2016년](https://keeplo.tistory.com/413)  
+* 연습문제 27  
+    [직사각형 별찍기](https://keeplo.tistory.com/382) / [x만큼 간격이 있는 n개의 숫자](https://keeplo.tistory.com/383) / [행렬의 덧셈](https://keeplo.tistory.com/384) / [핸드폰 번호 가리기](https://keeplo.tistory.com/385) / [하샤드 수](https://keeplo.tistory.com/386) / [평균 구하기](https://keeplo.tistory.com/387) / [콜라츠 추측](https://keeplo.tistory.com/388) / [짝수와 홀수](https://keeplo.tistory.com/389) / [최대공약수와 최소공배수](https://keeplo.tistory.com/390) / [제일 작은 수 제거하기](https://keeplo.tistory.com/394) [정수 제곱근 판별](https://keeplo.tistory.com/395) / [정수 내림차순으로 배치하기](https://keeplo.tistory.com/396) / [자연수 뒤집어 배열로 만들기](https://keeplo.tistory.com/397) / [자릿수 더하기](https://keeplo.tistory.com/398) / [이상한 문자 만들기](https://keeplo.tistory.com/399) / [약수의 합](https://keeplo.tistory.com/400) / [시저 암호](https://keeplo.tistory.com/401) / [수박수박수박수박수박수?](https://keeplo.tistory.com/402) / [문자열을 정수로 바꾸기](https://keeplo.tistory.com/403) / [서울에서 김서방 찾기](https://keeplo.tistory.com/404) / [문자열 다루기 기본](https://keeplo.tistory.com/405) / [문자열 내림차순으로 배치하기](https://keeplo.tistory.com/407) / [문자열 내 p와 y의 개수](https://keeplo.tistory.com/408) / [문자열 내 마음대로 정렬하기](https://keeplo.tistory.com/409) / [두 정수 사이의 합](https://keeplo.tistory.com/410) / [나누어 떨어지는 숫자 배열](https://keeplo.tistory.com/411) / [가운데 글자 가져오기](https://keeplo.tistory.com/412) / [2016년](https://keeplo.tistory.com/413)  
 * 코딩테스트 고득점 Kit 3
     * 정렬 [K번째수](https://keeplo.tistory.com/441)
     * 완전탐색 [모의고사](https://keeplo.tistory.com/439)
@@ -67,21 +66,13 @@
 * 위클리 챌린지 4  
     
 * 연습문제  
-    [N개의 최소공배수](https://keeplo.tistory.com/442) / [JadenCase 문자열 만들기](https://keeplo.tistory.com/443) / [행렬의 곱셈](https://keeplo.tistory.com/444) / [피보나치 수](https://keeplo.tistory.com/445) / [최댓값과 최솟값](https://keeplo.tistory.com/391) / [최솟값 만들기](https://keeplo.tistory.com/392) / [땅따먹기](https://keeplo.tistory.com/446) / [다음 큰 숫자](https://keeplo.tistory.com/447) / [올바른 괄호](https://keeplo.tistory.com/448) / [가장 큰 정사각형 찾기](https://keeplo.tistory.com/449)
+    [N개의 최소공배수](https://keeplo.tistory.com/442) / [JadenCase 문자열 만들기](https://keeplo.tistory.com/443) / [행렬의 곱셈](https://keeplo.tistory.com/444) / [피보나치 수](https://keeplo.tistory.com/445) / [최댓값과 최솟값](https://keeplo.tistory.com/391) / [최솟값 만들기](https://keeplo.tistory.com/392) / [땅따먹기](https://keeplo.tistory.com/446) / [다음 큰 숫자](https://keeplo.tistory.com/447) / [올바른 괄호](https://keeplo.tistory.com/448) / [가장 큰 정사각형 찾기](https://keeplo.tistory.com/449) /
 * 코딩테스트 고득점 Kit 
     * 정렬 [가장 큰 수](https://keeplo.tistory.com/453)
-    * 완전탐색
+    * 완전탐색 [소수찾기](https://keeplo.tistory.com/381)
     * 탐욕법(Greedy)
     * 스택/큐 [기능개발](https://keeplo.tistory.com/450) [프린터](https://keeplo.tistory.com/452)
     * DFS/BFS [타겟 넘버](https://keeplo.tistory.com/451)
- 
-## [연습문제](https://programmers.co.kr/learn/challenges)
-
-*  ***[깊이/너비 우선 탐색 (DFS/BFS)](https://programmers.co.kr/learn/courses/30/parts/12421)***  
-    [타겟 넘버](https://keeplo.tistory.com/297) / [단어 변환](https://keeplo.tistory.com/298) / [여행경로](https://keeplo.tistory.com/302) / [네트워크](https://keeplo.tistory.com/303)
-
-  * ***[정렬](https://programmers.co.kr/learn/courses/30/parts/12198)***  
-   K번째수 / 가장 큰 수 / H-Index 
 
 # 백준 온라인 저지
 
