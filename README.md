@@ -43,6 +43,7 @@
     * 탐욕법(Greedy) [체육복](https://keeplo.tistory.com/440)
     
 #### 2단계
+
 * 카카오 19  
     * KAKAO BLIND RECRUITMENT  
         * 2022 3  
@@ -71,7 +72,7 @@
     * 정렬 [가장 큰 수](https://keeplo.tistory.com/453)
     * 완전탐색 [소수찾기](https://keeplo.tistory.com/381)
     * 탐욕법(Greedy)
-    * 스택/큐 [기능개발](https://keeplo.tistory.com/450) [프린터](https://keeplo.tistory.com/452)
+    * 스택/큐 [기능개발](https://keeplo.tistory.com/450) / [프린터](https://keeplo.tistory.com/452) / [다리를 지나는 트럭](https://keeplo.tistory.com/455)
     * DFS/BFS [타겟 넘버](https://keeplo.tistory.com/451)
     * 해시 [위장](https://keeplo.tistory.com/454)
 
