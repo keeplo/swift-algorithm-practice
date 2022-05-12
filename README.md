@@ -69,7 +69,7 @@
 * 연습문제  
     [N개의 최소공배수](https://keeplo.tistory.com/442) / [JadenCase 문자열 만들기](https://keeplo.tistory.com/443) / [행렬의 곱셈](https://keeplo.tistory.com/444) / [피보나치 수](https://keeplo.tistory.com/445) / [최댓값과 최솟값](https://keeplo.tistory.com/391) / [최솟값 만들기](https://keeplo.tistory.com/392) / [땅따먹기](https://keeplo.tistory.com/446) / [다음 큰 숫자](https://keeplo.tistory.com/447) / [올바른 괄호](https://keeplo.tistory.com/448) / [가장 큰 정사각형 찾기](https://keeplo.tistory.com/449) /
 * 코딩테스트 고득점 Kit 
-    * 정렬 [가장 큰 수](https://keeplo.tistory.com/453)
+    * 정렬 [가장 큰 수](https://keeplo.tistory.com/453) / [H-Index](https://keeplo.tistory.com/456)
     * 완전탐색 [소수찾기](https://keeplo.tistory.com/381)
     * 탐욕법(Greedy)
     * 스택/큐 [기능개발](https://keeplo.tistory.com/450) / [프린터](https://keeplo.tistory.com/452) / [다리를 지나는 트럭](https://keeplo.tistory.com/455)
