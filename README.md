@@ -63,7 +63,7 @@
     * ~2018 5  
     * 2019 1   
 * 2017 팁스타운 2  
-    [예상 대진표](https://keeplo.tistory.com/464)
+    [예상 대진표](https://keeplo.tistory.com/464) / [짝지어 제거하기](https://keeplo.tistory.com/465)
 * 위클리 챌린지 4  
     [피로도](https://keeplo.tistory.com/459) / [교점에 별 만들기](https://keeplo.tistory.com/462) / [전력망 둘로 나누기](https://keeplo.tistory.com/463)
 * 연습문제  
