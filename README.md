@@ -60,7 +60,7 @@
     * 시즌 2  
     * 시즌 3  
 * Summer/Winder Coding  
-    * ~2018 5 [방문 길이](https://keeplo.tistory.com/466)
+    * ~2018 5 [방문 길이](https://keeplo.tistory.com/466) / [영어 끝말잇기](https://keeplo.tistory.com/468)
     * 2019 1   
 * 2017 팁스타운 2  
     [예상 대진표](https://keeplo.tistory.com/464) / [짝지어 제거하기](https://keeplo.tistory.com/465)
