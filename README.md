@@ -56,7 +56,7 @@
     * 2019 개발자 겨울 인턴쉽  
 * 2021 Dev-Matching: 웹 백엔드 개발자(상반기) 1  
 * 월간 코드 챌린지 7  
-    * 시즌 1   
+    * 시즌 1 [이진 변환 반복하기](https://keeplo.tistory.com/477)
     * 시즌 2  
     * 시즌 3  
 * Summer/Winder Coding  
