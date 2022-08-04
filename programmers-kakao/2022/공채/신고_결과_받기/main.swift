@@ -2,27 +2,28 @@
 //  main.swift
 //  2022/공채/신고_결과_받기
 //
-//  Created by Yongwoo Marco on 2022/04/15.
+//  Created by Yongwoo Marco on 2022/08/04.
 //
 
-import Foundation
-
 // https://programmers.co.kr/learn/courses/30/lessons/92334
+
+import Foundation
 
 func solution(_ id_list:[String], _ report:[String], _ k:Int) -> [Int] {
     var reportedCount = [String: Int]()
     var table = [String: Set<String>]()
-    
+
     Set(report).forEach {
         let splits = $0.split(separator: " ").map { String($0) }
-        let reporter = splits[0]
-        let reported = splits[1]
-        var reportedList = table[reporter] ?? []
-        reportedList.update(with: reported)
-        table[reporter] = reportedList
-        reportedCount[reported] = (reportedCount[reported] ?? 0) + 1
+        let (reporter, reportedUser) = (splits[0], splits[1])
+		if table[reporter] == nil {
+			table.updateValue(Set([reportedUser]), forKey: reporter)
+		} else {
+			table[reporter]?.update(with: reportedUser)
+		}
+        reportedCount[reportedUser] = (reportedCount[reportedUser] ?? 0) + 1
     }
-    
+	
     return id_list.map { user in
         return (table[user] ?? []).reduce(0) {
             $0 + ((reportedCount[$1] ?? 0) >= k ? 1 : 0)

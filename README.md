@@ -18,7 +18,7 @@
 
 * 카카오 8
     * KAKAO BLIND RECRUITMENT
-        * 2022 [신고 결과 받기](https://keeplo.tistory.com/380)
+        * 2022 [신고 결과 받기](https://keeplo.tistory.com/475)
         * 2021 [신규 아이디 추천](https://keeplo.tistory.com/436)
         * 2019 [실패율](https://keeplo.tistory.com/435)
         * 2018 [[1차] 비밀지도](https://keeplo.tistory.com/433) / [[1차] 다트게임](https://keeplo.tistory.com/434)
