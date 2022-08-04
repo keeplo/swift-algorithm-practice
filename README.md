@@ -13,8 +13,8 @@
 * [릿 코드 leetcode](#릿-코드)
 
 # 프로그래머스
-### [모든문제](https://programmers.co.kr/learn/challenges)
-#### 1단계  
+## [모든문제](https://programmers.co.kr/learn/challenges)
+### 1단계  
 
 * 카카오 8
     * KAKAO BLIND RECRUITMENT
@@ -42,7 +42,7 @@
     * 완전탐색 [모의고사](https://keeplo.tistory.com/439)
     * 탐욕법(Greedy) [체육복](https://keeplo.tistory.com/440)
     
-#### 2단계
+### 2단계
 
 * 카카오 19  
     * KAKAO BLIND RECRUITMENT  
@@ -75,6 +75,11 @@
     * 스택/큐 [기능개발](https://keeplo.tistory.com/450) / [프린터](https://keeplo.tistory.com/452) / [다리를 지나는 트럭](https://keeplo.tistory.com/455)
     * DFS/BFS [타겟 넘버](https://keeplo.tistory.com/451)
     * 해시 [위장](https://keeplo.tistory.com/454)
+
+### 3단계
+
+* 코딩테스트 고득점 Kit
+    * 해시 [베스트앨범](https://keeplo.tistory.com/476)
 
 # 백준 온라인 저지
 
