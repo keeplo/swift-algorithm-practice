@@ -89,7 +89,8 @@
 * **[정렬](https://www.acmicpc.net/step/9)**  
     [수 정렬하기 2750](https://keeplo.tistory.com/323) / [수 정렬하기 2 2751](https://keeplo.tistory.com/324) / [소트인사이드 1427](https://keeplo.tistory.com/325) / [좌표정렬하기 2 11651](https://keeplo.tistory.com/326) / [좌표 압축 18870](https://keeplo.tistory.com/327) / [나이순 정렬 10814](https://keeplo.tistory.com/328) / [단어 정렬](https://keeplo.tistory.com/329) / [좌표 정렬하기](https://keeplo.tistory.com/330) / [통계학 2108](https://keeplo.tistory.com/331)
     
-# 해커 랭크
+## solved.ac
 
-
-# 릿 코드
+### Class
+* 1* [음계](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/CLASS1/main.swift)
+* 1** [검증수](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/CLASS1/main.swift)

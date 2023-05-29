@@ -19,3 +19,9 @@
 //} else {
 //	print("mixed")
 //}
+
+// https://www.acmicpc.net/problem/2475
+// 검증수
+//let nums = readLine()!.split(separator: " ").compactMap({ Int($0) })
+//let sum = nums.reduce(0) { $0 + $1 * $1 }
+//print(sum % 10)
