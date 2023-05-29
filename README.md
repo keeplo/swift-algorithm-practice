@@ -92,5 +92,8 @@
 ## solved.ac
 
 ### Class
-* 1* [음계](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/CLASS1/main.swift)
-* 1** [검증수](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/CLASS1/main.swift)
+* [1](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/CLASS1/main.swift) 
+   * 음계
+   ** 검증수
+* [2](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/CLASS2/main.swift) 
+    수 정렬하기 3
