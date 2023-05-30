@@ -23,3 +23,17 @@
 //    }
 //}
 //print(result)
+
+// https://www.acmicpc.net/problem/4153
+// * 직각삼각형 4153
+
+//var nums: [Int] = [1]
+//
+//repeat {
+//    nums = readLine()!.split(separator: " ")
+//        .compactMap({ Int(String($0)) })
+//        .sorted(by: <)
+//    if nums.reduce(0, +) != 0 {
+//        print(nums[0]*nums[0] + nums[1]*nums[1] == nums[2]*nums[2] ? "right" : "wrong")
+//    }
+//} while (nums.reduce(0, +) != 0)
