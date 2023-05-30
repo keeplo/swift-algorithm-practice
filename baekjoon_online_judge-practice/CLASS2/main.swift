@@ -37,3 +37,15 @@
 //        print(nums[0]*nums[0] + nums[1]*nums[1] == nums[2]*nums[2] ? "right" : "wrong")
 //    }
 //} while (nums.reduce(0, +) != 0)
+
+// https://www.acmicpc.net/problem/1920
+// 수 찾기 1920
+
+//readLine()!
+//let a = Set(readLine()!.split(separator: " "))
+//readLine()!
+//
+//readLine()!.split(separator: " ")
+//    .forEach({
+//        print(a.contains($0) ? 1 : 0)
+//    })

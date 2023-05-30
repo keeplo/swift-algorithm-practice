@@ -97,4 +97,4 @@
    * ** 검증수 (2475)
 * [2](https://github.com/Keeplo/swift-algorithm-practice/blob/main/baekjoon_online_judge-practice/CLASS2/main.swift) 
     * 수 정렬하기 3 (10989)
-    * \* 직각삼각형 (4153)
+    * \* 직각삼각형 (4153) 수 찾기 (1920)
