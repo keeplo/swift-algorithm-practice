@@ -49,3 +49,27 @@
 //    .forEach({
 //        print(a.contains($0) ? 1 : 0)
 //    })
+
+// https://www.acmicpc.net/problem/10816
+// 숫자 카드 2 10816
+
+//var dic = [String:Int]()
+//_ = readLine()!
+//readLine()!.split(separator: " ").forEach {
+//	let num = String($0)
+//	if let value = dic[num] {
+//		dic[num] = value + 1
+//	} else {
+//		dic.updateValue(1, forKey: num)
+//	}
+//}
+//_ = readLine()!
+//print(
+//	readLine()!.split(separator: " ").compactMap {
+//		if let value = dic[String($0)] {
+//			return String(value)
+//		} else {
+//			return "0"
+//		}
+//	}.joined(separator: " ")
+//)
