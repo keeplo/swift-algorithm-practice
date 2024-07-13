@@ -1,6 +1,6 @@
 //
 //  main.swift
-//: [181942-문자열_섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942?language=swift)
+//: [181942_문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942?language=swift)
 //
 //  Created by 김용우 on 7/8/24.
 //
