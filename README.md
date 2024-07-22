@@ -5,6 +5,7 @@
 # 목차
 * [프로그래머스 Programmers](#프로그래머스)
     * [모든문제](#모든문제)
+        * [0단계](#0단계)
         * [1단계](#1단계)
         * [2단계](#2단계)
 * [백준 온라인 저지 Baekjoon Online Judge](#백준-온라인-저지)
@@ -15,8 +16,9 @@
 # 프로그래머스
 ## [모든문제](https://programmers.co.kr/learn/challenges)
 ### 0단계
-    * [181942_문자열 섞기]() / [181941-문자 리스트를 문자열로 변환하기]() / [181940-문자열 곱하기]() / [181939-더 크게 합치기]() / [181938]()
-    * 문자열을 정수로 변환하기 / n의배수 / 정수 부분 / my_string / 부분 문자열인지 확인하기 / 소문자로 바꾸기 / 원소들의 곱과합 / 문자열 겹쳐쓰기
+
+* [181942_문자열 섞기](https://github.com/keeplo/swift-algorithm-practice/blob/main/programmers-phase0/181942/main.swift) / [181941-문자 리스트를 문자열로 변환하기](https://github.com/keeplo/swift-algorithm-practice/blob/main/programmers-phase0/181941/main.swift) / [181940-문자열 곱하기](https://github.com/keeplo/swift-algorithm-practice/blob/main/programmers-phase0/181940/main.swift) / [181939-더 크게 합치기](https://github.com/keeplo/swift-algorithm-practice/blob/main/programmers-phase0/181939/main.swift) / [181938 두 수의 연산 값 비교하기](https://github.com/keeplo/swift-algorithm-practice/blob/main/programmers-phase0/181938/main.swift) / [181936 공배수](https://github.com/keeplo/swift-algorithm-practice/blob/main/programmers-phase0/181936/main.swift) / [181935 홀짝에 따라 다른 값 반환하기](https://github.com/keeplo/swift-algorithm-practice/blob/main/programmers-phase0/181935/main.swift) / [181934 조건 문자열](https://github.com/keeplo/swift-algorithm-practice/blob/main/programmers-phase0/181934/main.swift) / [181932 코드 처리하기](https://github.com/keeplo/swift-algorithm-practice/blob/main/programmers-phase0/181934/main.swift)
+* 문자열을 정수로 변환하기 / n의배수 / 정수 부분 / my_string / 부분 문자열인지 확인하기 / 소문자로 바꾸기 / 원소들의 곱과합 / 문자열 겹쳐쓰기
 
 ### 1단계  
 

@@ -1,6 +1,6 @@
 //
 //  main.swift
-//  181938-두 수의 연산 값 비교하기
+//  [181938-두 수의 연산 값 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181938)
 //
 //  Created by 김용우 on 7/13/24.
 //
